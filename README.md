@@ -20,7 +20,7 @@ java
 public class Abhishek {
 
     String name        = "Abhishek Kumar";
-    String location    = "Patna, Bihar, India 🇮🇳";
+    String location    = "Ranchi, Jharkhand, India 🇮🇳";
     String[] roles     = {"Full-Stack Developer", "Java Backend Dev", "React Frontend Dev"};
     String education   = "Computer Science Engineer";
 
